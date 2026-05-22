@@ -1,0 +1,16 @@
+{
+  "name": "机器人概念股",
+  "description": "A股机器人相关股票池",
+  "stocks": [
+    {"code": "002747", "name": "埃斯顿", "market": "SZ"},
+    {"code": "300124", "name": "汇川技术", "market": "SZ"},
+    {"code": "300024", "name": "机器人", "market": "SZ"},
+    {"code": "002472", "name": "双环传动", "market": "SZ"},
+    {"code": "688017", "name": "绿的谐波", "market": "SH"},
+    {"code": "300607", "name": "拓斯达", "market": "SZ"},
+    {"code": "002527", "name": "新时达", "market": "SZ"},
+    {"code": "603728", "name": "鸣志电器", "market": "SH"},
+    {"code": "688320", "name": "禾川科技", "market": "SH"},
+    {"code": "002031", "name": "巨轮智能", "market": "SZ"}
+  ]
+}
